@@ -37,13 +37,13 @@ label {
 .grupo {
 	display: flex;
 	flex-direction: column;
-	width: 100%;
+	width: 2000px;
 }
 
 .MuiInputBase-input.MuiInput-input {
 	text-align: center;
 	padding: 20px;
-	font-size: 18px;
+	font-size: 15px;
 	text-transform: uppercase;
 }
 
